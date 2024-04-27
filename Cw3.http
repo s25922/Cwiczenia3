@@ -1,0 +1,6 @@
+@Cw3_HostAddress = http://localhost:5127
+
+GET {{Cw3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
